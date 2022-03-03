@@ -1,6 +1,6 @@
 # Vendas de Jogos de Videogames
 
-Esse projeto têm a finalidade de analisar a venda de jogos de videogames. Na qual respondo alguns questionamentos:
+Esse projeto têm a finalidade de analisar a venda de jogos de videogames, na qual analiso alguns questionamentos:
 
 1. Qual a quantidade de jogos por gênero?
 2. Qual ano teve maior lançamento?
@@ -23,3 +23,4 @@ Esse projeto têm a finalidade de analisar a venda de jogos de videogames. Na qu
 19. Relação de colunas
 20.  Informações cruzadas - quantidade de títulos por gênero e console
 
+Vemos, por exemplo, que o mercado norte-americano é líder absoluto de vendas impulsionado pelo mercado estadunidense. 
